@@ -362,7 +362,7 @@
 
                     <div class="col-1-of-4">
                         <figure class="dev__shape">
-                            <img src="img/mentors/mentor12.jpeg" alt="Puja Bansal" class="dev__img">
+                            <img src="img/mentors/mentor12.jpg" alt="Puja Bansal" class="dev__img">
                             <figcaption class="dev__caption">Puja Bansal</figcaption>
                         </figure>
                         <div class="dev__name">Puja Bansal</div>
