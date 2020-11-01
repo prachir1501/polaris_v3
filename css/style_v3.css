@@ -315,6 +315,8 @@ body {
     background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.7)), url("../img/hero-14.jpg"); }
   .header__motorsports {
     background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.7)), url("../img/life/motorsports-1.JPG"); }
+    .header__smp {
+      background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.7)), url("../img/hero-15.jpeg"); }
 .navigation {
   position: fixed;
   top: 0;
@@ -614,7 +616,7 @@ body {
   word-spacing: 3px;
   font-weight: 300; }
 
-.restaurants__box {
+.restaurants__box, .smp__box{
   margin: 2rem auto;
   width: 80%; }
 
@@ -697,7 +699,6 @@ body {
   .info__item {
     font-size: 1.7rem;
     font-weight: 300; }
-
 .message__text {
   text-align: justify;
   font-size: 1.7rem;
@@ -906,10 +907,18 @@ body {
 .about__photo, .location__photo, .facilities__photo, .network__photo, .mess__photo, .medical__photo, .transportation__photo {
   width: 100%; }
 
-.facilities {
+.smp__photo{
+  height: 50%;
+  width: 50%; }
+
+.facilities, .mentorship {
   width: 90%;
   margin: 2rem auto; }
-
+  
+  .smp__text {
+    font-size: 3rem;
+    font-family: 'Bitter', serif; }
+    
 .clubs__text, .outreach__text {
   text-align: justify;
   font-size: 1.7rem;

@@ -1,0 +1,81 @@
+{
+  margin: 0;
+  padding: 0;
+  font-family: "montserrat",sans-serif;
+  box-sizing: border-box;
+}
+
+.gallerysmp-section{
+  width: 100%;
+  padding: 60px 0;
+  background: #ffffff;
+}
+
+.innersmp-width{
+  width: 100%;
+  max-width: 1200px;
+  margin: auto;
+  padding: 0 20px;
+}
+
+.gallerysmp-section h1{
+  padding-top: 10px;
+  font-size: 30px;
+  text-align: center;
+  text-transform: uppercase;
+  color: #333;
+}
+.gallerysmp-section h2{
+  font-size: 30px;
+  text-align: center;
+  text-transform: uppercase;
+  color: #333;
+}
+
+.bordersmp{
+  width: 340px;
+  height: 4px;
+  background: #333;
+  margin: 10px auto;
+}
+
+.gallerysmp-section .gallerysmp{
+  display: flex;
+  flex-wrap: wrap-reverse;
+  justify-content: center;
+}
+
+.gallerysmp-section .imagesmp{
+  flex: 25%;
+  overflow: hidden;
+  cursor: pointer;
+}
+
+.gallerysmp-section .imagesmp img{
+  width: 100%;
+  height: 100%;
+  padding: 0.5rem;
+  transition: 0.4s;
+}
+
+.gallerysmp-section .imagesmp:hover img{
+  transform: scale(1.4) rotate(0deg);
+}
+
+@media screen and (max-width:960px) {
+  .gallerysmp-section .imagesmp{
+    flex: 33.33%;
+  }
+}
+
+@media screen and (max-width:768px) {
+  .gallerysmp-section .imagesmp{
+    flex: 50%;
+  }
+}
+
+@media screen and (max-width:480px) {
+  .gallerysmp-section .imagesmp{
+    flex: 100%;
+  }
+}
