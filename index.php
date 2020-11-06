@@ -48,32 +48,33 @@
 
 <?php require_once('header.php'); ?>
 
-        <!-- <div id="myModal--1" class="modal">s
+        <div id="myModal--1" class="modal">s
 
              Modal content
             <div class="modal-content">
                 <div class="modal-header">
                 <span class="close">&times;</span>
-                <h2>Checklist for Freshers 2019</h2>
+                <h2>Checklist for Freshers 2020</h2>
                 </div>
                 <div class="modal-body">
                     <ul>
-                        <li><strong>Important Notice</strong> to UG/PG applicants whose admission is due on Dt.23/07/2019. <a href="Notice.pdf" target="_blank" class="notification">Click Here!</a></li><br/>
-                        <li>All the new students are required to be present in the IIT Bhilai - GEC Campus, Raipur at 7:30am on 23rd July 2019.</li>
+                        <!-- <li><strong>Important Notice</strong> to UG/PG applicants whose admission is due on Dt.23/07/2019. <a href="Notice.pdf" target="_blank" class="notification">Click Here!</a></li><br/> -->
+                        <!-- <li>All the new students are required to be present in the IIT Bhilai - GEC Campus, Raipur at 7:30am on 23rd July 2019.</li> -->
                         <br/>
-                        <li>For any queries regarding IIT Bhilai and 2019-20 admissions please feel free to contact any of the <a href="mentors.php" class="notification">Mentors.</a><br>Orientation Schedule - <a href="https://www.iitbhilai.ac.in/index.php?pid=orientation_2019" target="_blank" class="notification">Click Here!</a></li><br>
+                        <li>Important Notice to UG applicants- <a href="UG forms for 1st year.pdf" download>Click here</a> for registration forms. </li>
+                        <li>For any queries regarding IIT Bhilai and 2020-21 admissions please feel free to contact any of the <a href="mentors.php" class="notification">Mentors.</a><br></li><br>
 
-                        <li>You can pay the first semester fee online. No cash payment option will be available at the institute on 23rd July. For more details, <a href="documents.php" class="notification">click here!</a><br><strong>The deadline for fee payment is 22nd July for students not availing education loan.</strong></li><br/>
+                        <!-- <li>You can pay the first semester fee online. No cash payment option will be available at the institute on 23rd July. For more details, <a href="documents.php" class="notification">click here!</a><br><strong>The deadline for fee payment is 22nd July for students not availing education loan.</strong></li><br/>
 
                         <li>Those students who wants to avail loan from PNB, <a href="documents.html" class="notification">click here!</a></li>
-                        <li>Students who wants to avail education loan from bank, Details of bank and respective forms are uploaded <a href="documents.php" class="notification">here!</a></li>
+                        <li>Students who wants to avail education loan from bank, Details of bank and respective forms are uploaded <a href="documents.php" class="notification">here!</a></li> -->
 
 
                     </ul>
                 </div>
             </div>
 
-        </div> -->
+        </div>
 
         <div id="myModal--2" class="modal">
 
